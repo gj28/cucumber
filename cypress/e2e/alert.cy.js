@@ -14,6 +14,8 @@
 //     }) 
 // })
 
+
+
 describe("alerts",()=>{
     beforeEach(()=>{
         cy.visit("http://the-internet.herokuapp.com/javascript_alerts")
